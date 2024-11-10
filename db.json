@@ -41,6 +41,13 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "cactus",
+      "image": "https://www.jacksonandperkins.com/images/xl/29377.webp?v=0-1",
+      "price": 25,
+      "soldOut": false,
+      "id": 8
     }
   ]
 }
